@@ -1,0 +1,43 @@
+* {box-sizing: border-box;}
+p {
+    background: red;
+}
+b {
+    background-color:blue;
+}
+li { 
+    background-color: rgb(0, 255, 106);
+}
+h1 {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    width: 1490px;
+    height: 100px;
+    margin-top: 50px;
+}
+div {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+span { 
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    color: #000000;
+    /* font-size: 30px; */
+    padding: 10px;
+}
+.Block1 {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background: red;
+}
+.Block2 {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background: green;
+}
